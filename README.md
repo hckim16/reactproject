@@ -1,3 +1,5 @@
+This project is from Travesty Media Youtube tutorial on how to use React by creating a To-do list.  All the coding is simply following along with the instructions from Travesty Media
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
